@@ -1,0 +1,10 @@
+---
+name: "Tracer"
+metadata:
+  keywords:
+    - "opentracing"
+    - "jaeger"
+  guide: "https://quarkus.io/guides/opentracing"
+  categories:
+    - "observability"
+  status: "stable"
